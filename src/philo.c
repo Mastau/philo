@@ -6,7 +6,7 @@
 /*   By: thomarna <thomarna@42angouleme.fr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/28 13:12:10 by thomarna          #+#    #+#             */
-/*   Updated: 2024/12/28 13:13:15 by thomarna         ###   ########.fr       */
+/*   Updated: 2025/01/02 17:44:07 by thomarna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,5 @@
 
 int	main(int ac, char **av)
 {
-	(void)ac;
-	ft_printf(av[0]);
+
 }
