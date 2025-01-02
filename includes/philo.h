@@ -6,13 +6,12 @@
 /*   By: thomarna <thomarna@42angouleme.fr>         +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2024/12/28 13:11:16 by thomarna          #+#    #+#             */
-/*   Updated: 2024/12/28 13:14:53 by thomarna         ###   ########.fr       */
+/*   Updated: 2025/01/02 18:36:49 by thomarna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef PHILO_H
 # define PHILO_H
 
-#include "libft.h"
 #include <pthread.h>
 #endif

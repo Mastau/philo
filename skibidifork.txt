@@ -3,4 +3,25 @@ https://medium.com/@ruinadd/philosophers-42-guide-the-dining-philosophers-proble
 
 Philo de golmon
 
-./philo [nb_philo] [time2die] [time2eat] [time2sleep] [nbPhiloNeedEat]
+./philo [nb_philo] [time2die] [time2eat] [time2sleep] [nbPhiloNeedEat *optionnal]
+
+
+struct s_philo
+{
+	- pthread
+	- id
+	- eating
+	- meals_eaten
+	- last_meal
+	- ttdie
+	- tteat
+	-ttsleep
+	- start_time
+	- nb_philo
+	- num_times
+	- dead	
+}
+
+Philo routine > init, do, finish
+Monitor () > hop hop on follow les copains
+
